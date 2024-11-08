@@ -49,7 +49,7 @@ CapOptix/
 
 CapOptix leverages a modular architecture to support various components of energy market analysis, as depicted below:
 
-![Infrastructure Diagram](/images/CapacityPremia.pdf)
+![Infrastructure Diagram](/images/CapacityPremia.png)
 
 ## Installation and Setup
 
@@ -57,7 +57,7 @@ To use CapOptix, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/CapOptix.git
+   git clone https://github.com/FEEL-Columbia/CapOptix.git
    cd CapOptix
    ```
 
