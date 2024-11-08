@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Package build files
+*.egg-info/
+*.egg
+*.eggs/
+build/
+dist/
+
+# pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
+
+# MacOS and other OS-specific files (optional)
+.DS_Store
+Thumbs.db
+
+*.csv
