@@ -106,10 +106,4 @@ For a full working example, refer to the [notebook](/scenario1_low_shortfall.ipy
 ## Contribution
 We welcome contributions! If you'd like to improve CapOptix, please fork the repository and submit a pull request.
 
---
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
 
